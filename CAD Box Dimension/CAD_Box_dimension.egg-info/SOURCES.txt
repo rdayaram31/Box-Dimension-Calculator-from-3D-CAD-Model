@@ -1,0 +1,8 @@
+setup.py
+CAD_Box_dimension.egg-info/PKG-INFO
+CAD_Box_dimension.egg-info/SOURCES.txt
+CAD_Box_dimension.egg-info/dependency_links.txt
+CAD_Box_dimension.egg-info/requires.txt
+CAD_Box_dimension.egg-info/top_level.txt
+Cad Box Dimension/CAD_Box_dim.py
+Cad Box Dimension/__init__.py
